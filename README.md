@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/72233be6-959a-4ece-a9b8-3b97853cd0e2
+
 # YouTube MCQ & Flashcard Generator 🎓✨
 
 An AI-powered web application that turns any YouTube video into interactive MCQs and flashcards to help you actively recall and test your understanding.
