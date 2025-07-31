@@ -7,7 +7,6 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC7ioeT-gHBqyMG_e0Vdl04UhNDC0XkIC4"
 
 def extract_youtube_video_id(url: str) -> str:
     """Extract video ID from YouTube URL"""
