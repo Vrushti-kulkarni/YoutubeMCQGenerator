@@ -9,7 +9,7 @@ Paste a video link, and the app does the rest — powered by a multi-agent syste
 
 ## 🚀 Demo
 
-🔗 [Click here to view the live demo](https://drive.google.com/file/d/1ldSjlu9kDw9XxoCUHOfop-2PXDMyBl9o/view?usp=sharing)  
+ Above is a quick 20 seconds demo of the application
 
 https://github.com/user-attachments/assets/62540d0d-0263-4ee1-8908-fc1518fca8ed
 
