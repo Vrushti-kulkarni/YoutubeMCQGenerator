@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/72233be6-959a-4ece-a9b8-3b97853cd0e2
 # YouTube MCQ & Flashcard Generator 🎓✨
 
 An AI-powered web application that turns any YouTube video into interactive MCQs and flashcards to help you actively recall and test your understanding.
@@ -8,6 +10,10 @@ Paste a video link, and the app does the rest — powered by a multi-agent syste
 ## 🚀 Demo
 
 🔗 [Click here to view the live demo](https://drive.google.com/file/d/1ldSjlu9kDw9XxoCUHOfop-2PXDMyBl9o/view?usp=sharing)  
+
+https://github.com/user-attachments/assets/62540d0d-0263-4ee1-8908-fc1518fca8ed
+
+
 
 ---
 
@@ -24,6 +30,10 @@ Paste a video link, and the app does the rest — powered by a multi-agent syste
 ## 🛠️ Tech Stack
 
 - **Frontend:** React 
+
+
+
+
 - **Backend:** FastAPI
 - Multi agent AI system
 
